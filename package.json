@@ -14,6 +14,7 @@
     "firebase": "^11.2.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
+    "vite": "^2.0.0" // Ensure this is included
   },
   "devDependencies": {
     "@eslint/js": "^9.17.0",
@@ -26,5 +27,8 @@
     "eslint-plugin-react-refresh": "^0.4.16",
     "globals": "^15.14.0",
     "vite": "^6.0.5"
+  }
+  "engines": {
+    "node": "16.x" // Specify a compatible Node.js version
   }
 }
